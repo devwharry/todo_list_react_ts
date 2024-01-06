@@ -1,3 +1,7 @@
+# Projeto: Todo List React com TypeScript
+Para aplicar conceitos do typeScript com React. E assim apreder ainda
+mais. Criando um site para cadastra tarefas com funções para editar e excluir tarefas.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
